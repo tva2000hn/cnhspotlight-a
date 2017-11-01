@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <string name="nav_menu_item_latest">"Latest"</string>
+    <string name="nav_menu_item_news">"News"</string>
+    <string name="nav_menu_item_education">"Education"</string>
+    <string name="nav_menu_item_education_abroadeducation">"Abroad education"</string>
+    <string name="nav_menu_item_education_contests">"Contests"</string>
+    <string name="nav_menu_item_club">"Club"</string>
+    <string name="nav_menu_item_entertainment">"Entertainment"</string>
+    <string name="nav_menu_item_cnhicon">"CNH's Icon"</string>
+    <string name="nav_menu_item_cnhinme">"CNH in me"</string>
+    <string name="nav_menu_item_outsideclass">"Outside class"</string>
+    <string name="nav_menu_item_trivial">"Trivia"</string>
+
+    <string name="nav_menu_subitem_more">More</string>
+    <string name="nav_menu_item_about">About</string>
+
+    <string name="about_menu_item_members">Members</string>
+    <string name="about_menu_item_copyright">Copyright</string>
+
+    <string name="actionbardrawertoggle_description_open">"Open"</string>
+    <string name="actionbardrawertoggle_description_close">"Close"</string>
+
+
+    <string name="toolbar_menu_item_action_search">"Search"</string>
+</resources>
